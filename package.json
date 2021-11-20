@@ -10,7 +10,7 @@
     "vue": "^2.6.14",
     "yargs": "^17.2.1"
   },
-  "name": "mevn",
+  "name": "nodejs-mongodb",
   "version": "1.0.0",
   "description": "Test project modejs mongodb with express",
   "main": "App.js",
@@ -22,7 +22,8 @@
     "express",
     "mongodb",
     "nodemon",
-    "vue"
+    "vue",
+    "mongose"
   ],
   "author": "rizky oktan",
   "license": "MIT"
